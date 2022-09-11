@@ -1,0 +1,9 @@
+{
+    "development": {
+        "host": "localhost",
+        "database": "gu_test",
+        "username": "user",
+        "password": "5716",
+        "dialect" : "mysql"
+    }
+}
